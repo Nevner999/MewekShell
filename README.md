@@ -1,2 +1,3 @@
 # MewekShell
 nothing
+all
